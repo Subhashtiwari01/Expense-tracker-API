@@ -1,5 +1,4 @@
 # Expense-tracker-API
-# Job-Search-Portal
 
 This project is a expense tracker that allows users to browse user signup/signin trackExpense and add product.
 
